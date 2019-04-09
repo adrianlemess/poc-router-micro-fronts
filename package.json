@@ -1,0 +1,19 @@
+{
+  "name": "poc-router-skippper",
+  "version": "1.0.0",
+  "description": "POC to router with skipper",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "adrianlemess",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node-tailor": "^3.9.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
